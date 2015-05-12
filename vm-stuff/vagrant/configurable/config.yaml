@@ -1,0 +1,5 @@
+name: 'Conf VM'
+gui: false
+memory: 2048
+cpus: 1
+ip: '172.17.8.100'
